@@ -1,0 +1,16 @@
+{
+  "name": "Jupiverse #738",
+  "symbol": "JUPI",
+  "description": "An exclusive digital collectible from the $JUP for swaps. Unlock unique benefits and join the pack",
+  "image": "https://raw.githubusercontent.com/ebro222111/12/refs/heads/main/photo_2025-11-22_12-51-03.png", 
+  "external_url": "",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/ebro222111/12/refs/heads/main/photo_2025-11-22_12-51-03.png", "type": "image/png" }
+    ],
+    "creators": [
+      { "address": "DCQnfUH6mHA333mzkU22b4hMvyqcejUBociodq8bB5HF", "share": 100 }
+    ]
+  }
+}
